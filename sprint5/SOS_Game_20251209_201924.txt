@@ -1,0 +1,10 @@
+SOS Game Recording
+Game Mode: Simple
+Board Size: 6
+Blue Player: Human
+Red Player: Human
+Total Moves: 3
+---MOVES---
+0,0,S,BLUE
+1,1,O,RED
+2,2,S,BLUE

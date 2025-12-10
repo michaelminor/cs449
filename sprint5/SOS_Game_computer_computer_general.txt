@@ -1,0 +1,43 @@
+SOS Game Recording
+Game Mode: General
+Board Size: 6
+Blue Player: Computer
+Red Player: Computer
+Total Moves: 36
+---MOVES---
+1,1,S,BLUE
+1,0,O,RED
+5,1,S,BLUE
+1,5,S,RED
+4,0,O,BLUE
+4,1,S,RED
+5,0,O,BLUE
+0,3,O,RED
+5,5,O,BLUE
+2,0,O,RED
+2,4,S,BLUE
+3,5,O,RED
+0,2,O,BLUE
+3,2,O,RED
+2,3,S,BLUE
+1,4,S,RED
+0,4,O,BLUE
+4,5,O,RED
+3,4,O,BLUE
+4,4,S,RED
+5,3,O,BLUE
+2,2,S,RED
+3,3,O,BLUE
+4,2,S,RED
+4,3,O,BLUE
+1,3,O,RED
+1,2,S,BLUE
+2,5,O,RED
+5,4,S,BLUE
+5,2,S,RED
+2,1,S,BLUE
+3,1,O,RED
+3,0,S,BLUE
+0,5,S,RED
+0,0,O,BLUE
+0,1,S,RED
